@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+h1 {
+    margin-top: 30px;
+}
+h2 {
+    margin-top: 30px;
+}
+form {
+    margin-top: 10px;
+}
+button {
+    margin: 30px 0px 0px auto;
+}
+input {
+    margin-top: 20px;
+}
